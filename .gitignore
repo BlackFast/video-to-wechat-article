@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Work directories (generated during skill execution)
+_work/
+*-wechat-work/
+
+# Output files (generated locally)
+*-wechat.html
